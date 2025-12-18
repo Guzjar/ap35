@@ -1,0 +1,3 @@
+1. mkdir uno dos tres
+2. echo "angel santiago guzman jaramillo" >> un.txt
+3.cp ../procesos.txt dos
